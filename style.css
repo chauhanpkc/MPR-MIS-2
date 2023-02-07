@@ -2,6 +2,12 @@
     margin: 0;
     padding: 0;
 }
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
 .sidebar-design{
     background-color: #343a40;
 }
@@ -22,3 +28,6 @@
     margin-right: 0px;
     margin-left: -3px;
 }
+/* .button :nth-child(1){
+    margin-bottom: 10px;
+} */
