@@ -8,6 +8,9 @@ input::-webkit-inner-spin-button {
   -webkit-appearance: none;
   margin: 0;
 }
+.bg-legend{
+    background-color: #007bff;
+}
 .sidebar-design{
     background-color: #343a40;
 }
